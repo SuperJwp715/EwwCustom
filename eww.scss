@@ -1,0 +1,17 @@
+* {
+  all: unset; // Unsets everything so you can style everything from scratch
+}
+
+.bar {
+  background-color: #221F28; // prev color 151723
+  padding: 5px;
+  border-radius: 25px;
+}
+
+.workspace button:hover {
+  color: #ff00ea;
+}
+
+.rightside {
+  color: white;
+}
